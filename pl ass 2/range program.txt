@@ -1,0 +1,15 @@
+5. CREATE A PROGRAM TO SUM NO.'S BELONGING TO A GIVEN RANGE
+
+#include<stdio.h>
+void main()
+{
+inti,n,sun=0;
+printf("enter maximum limit:\n);
+scanf("%d,&n);
+for(i=0;i<n;i++);
+{
+sum=sum+i;
+}
+printf("%d",sum);
+}
+

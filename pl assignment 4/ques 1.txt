@@ -1,0 +1,7 @@
+1. write an algorithm that accepts the radius and calculate the area of the circle.
+step1:start
+step2:read the radius r of the circle
+step3:area PI*r*r
+srep4:calculate the area
+step5 print area of circle
+step6:end

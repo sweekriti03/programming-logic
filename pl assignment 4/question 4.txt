@@ -1,0 +1,7 @@
+write an algo for accepting anumber and display the multiplication table of the given number.
+
+step 1 start
+step 2 enter the number N for which multiplication is to be done
+step 3 for T= 1 TO 10
+STEP 4 Print M=N*T
+STEP 4 END

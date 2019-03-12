@@ -1,0 +1,22 @@
+write an algorithm to check the number is perfect or not.
+
+begin
+nnumber
+for (i=0;i<n,i++)
+{
+if(n%i==0)
+{
+sum= sum+1;
+}
+}
+if(sum==n)
+{
+display the number n is perfect
+else 
+begin
+display the number n is not perfect
+}
+end
+ 
+ 
+

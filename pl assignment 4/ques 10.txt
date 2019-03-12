@@ -1,0 +1,13 @@
+ write a pseudocode that accepts three numbers and display the lowest number among three.
+ 
+ begin
+ numeric number
+ if(number 1< number 2 and number 3)
+ display number 1 is lowest
+ else if( number 2< number 1 and number 3)
+ begin 
+ display number 2 is smallest
+ else if(number 3< number 1 and number 2 )
+ begin
+ display number 3 is lowest.
+ 

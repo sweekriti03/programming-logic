@@ -1,0 +1,8 @@
+ write a pseudocode that accepts the radius and calculate the radius of the circle
+ Begin 
+ nradius
+ enter the radius
+ area= pi*r*r*
+ print the radius of circle
+ end
+ 

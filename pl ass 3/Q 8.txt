@@ -1,0 +1,24 @@
+
+8.DISPLAY THE THIRD CAHARACTER OF A STRING IS A VOWEL OR CONSONANT.
+
+#include <stdio.h>
+
+ 
+int main()
+{
+  string[20];
+  char ch;
+  printf("enter a string:\n");
+  
+ 
+  printf("Enter the third  character:\n");
+  scanf("%c", &ch);
+ 
+ 
+  if (ch == 'a' || ch == 'A' || ch == 'e' || ch == 'E' || ch == 'i' || ch == 'I' || ch =='o' || ch=='O' || ch == 'u' || ch == 'U')
+    printf("%c is a vowel.\n", ch);
+  else
+    printf("%c isn't a vowel.\n", ch);
+     
+  return 0;
+}

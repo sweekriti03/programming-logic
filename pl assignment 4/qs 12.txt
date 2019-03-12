@@ -1,0 +1,9 @@
+write a pseudocode to swap two numbers without using the third variable.
+begin
+nnumbers
+read a and b
+a=a+b
+b+b-a
+a=a-b
+display a and b
+end

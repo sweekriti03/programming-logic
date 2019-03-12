@@ -1,0 +1,7 @@
+write an algo to swap two numbers without using third variable
+step1 start
+step2 read two numbers a and b
+step 3 add a and b and put the sum in a
+step 4 subtract b from a and put the value in b
+step 5 subtract b from a and put the value in add
+end

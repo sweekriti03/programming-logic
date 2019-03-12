@@ -1,0 +1,22 @@
+
+ 4.create a substring function without using predefined function for the same
+
+#include <stdio.h>
+int main()
+{
+   char str[100], substr[100];
+   int position, length, c = 0;
+   printf("enter a string\n");
+   gets(str);
+   printf("Enter the position and length of substring\n");
+   scanf("%d%d", &position, &len);
+   while (c < length) {
+      substr[c] = str[position+c-1];
+      c++;
+   }
+   substr[c] = '\0';
+ 
+   printf("Required substring is %s \n", substr);
+ 
+   return 0;
+}

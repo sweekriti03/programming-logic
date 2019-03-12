@@ -1,0 +1,15 @@
+1.write an algorithm for accepting two numbers and divide the first number by second number and display their result.
+
+#include <stdio.h>
+int main() {
+int num1,num2, div;
+printf("enter two numbers: %d\n",num1);
+scanf("%d",&num2);
+printf("enter two numbers: %d\n",num1);
+scanf("%d",&num2);
+int num3= div;
+num3= num1/num2;
+printf("enter division of  two numbers");
+
+return 0;
+}

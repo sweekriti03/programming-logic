@@ -1,0 +1,32 @@
+
+4.	Write a program to print the mirror alphabets.
+
+public class Convert
+             { 
+	   public static void main(String[] args) 
+	    {
+		 String str;
+		 System.out.println("Enter a string");
+		 Scanner sc = new Scanner(System.in);
+		 str=sc.nextLine();
+		 int index;
+		 for(int i=0;i<str.length();i++)
+		 {
+			 if(str.equals(str.toUpperCase()))
+			 {
+				 index='Z'-str.charAt(i);
+				 System.out.println((char)('A'+index)); 
+			 }
+			 else if(str.equals(str.toLowerCase()))
+			 {
+				 index='z'-str.charAt(i);
+				 System.out.println((char)('a'+index));
+			 }
+			 else
+			 {
+				 System.out.println("Invalid String.Try again!!");
+			 }
+		}
+	  }
+
+

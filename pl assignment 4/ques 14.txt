@@ -1,0 +1,10 @@
+write a pseudocode for accepting a number and check whether the number is a perfect square or nbeg
+begin
+Nnumber
+for x=i*i
+if(x==n)
+display N is a perfect square
+else if(x>n)
+begin
+display N is not perfect sqaure
+end

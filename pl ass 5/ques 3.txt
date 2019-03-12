@@ -1,0 +1,57 @@
+write a program for matrix addition  
+
+#include <stdio.h>
+int main() 
+{
+    int i,j,m ,n ,a[3][3],b[3][3],c[3[3];
+        printf("enter the number of rows and coloumns");
+        scanf("%d %d",&m,&n);
+            
+    for(i=0;i<m;i++)
+    {
+        for(j=0;j<n;j++)
+{
+    
+    printf("enter the elements in the first array\n");
+    scanf("%d",&a[i][j]);
+    }
+      }  
+     for (i=0;i<m;i++)
+        {
+          for (j=0;j<n;j++) {
+          printf("enter the elements in the second array ");
+          scanf("%d",& b[i][j]);
+        }
+    
+         }
+          
+              for(i=0;i<m;i++)
+              {
+                  for(j=0;j<n,j++)
+          {
+              printf("enter the elements for the third matrix");
+              scanf("%d",c[i[j];
+          }
+              }
+              
+              sum=a[i][j]+b[i][j]+c[i][j];
+              printf("display the sum"); 
+          
+               for(i=0;i<m;i++)
+                  {
+                      for(j=0;j<n;j++)
+
+                      {
+                  }
+              }
+          
+          return 0;
+              }
+              
+              
+          
+          
+          
+          
+        
+    

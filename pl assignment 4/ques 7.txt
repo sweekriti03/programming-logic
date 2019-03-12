@@ -1,0 +1,11 @@
+write an algorithm to check the number is perfect or not.
+step1: start
+step2: enter a positive number n
+step2: start a loop from 1 to n
+step 3: during iteration for every integer i n%i==0
+1 if sum=sum+1 then the number n is perfect number
+2 if sum==n then the number n is not perfect number
+step4: end
+ 
+ 
+

@@ -1,0 +1,41 @@
+7. write an algorithm for finding the distance and speed values and hence finding the time taken.
+
+#include <stdio.h>
+
+int main() {
+    
+    int a,b,c,d;
+    char speed,dis,time;
+    printf("enter the first number :\n",a);
+    scanf("%d",&dis);
+
+    printf("enter the second number:\n",b);
+    scanf("%d",&speed);
+    time=dis/speed;
+    
+     printf("enter the time:%d\n",time);
+     return 0;
+}
+    
+
+    
+    
+    
+
+    
+
+    
+    
+
+
+    
+    
+    
+
+    
+
+    
+    
+
+    
+	

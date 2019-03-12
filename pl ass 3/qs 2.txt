@@ -1,0 +1,16 @@
+2.convert the distance from kilometer to meter
+
+#include <stdio.h>
+int main()
+{
+int a,kilometer,meter;
+printf("enter the number :\n");
+scanf("%d",&a);
+
+printf("display the distance in kilometer\n", a);
+
+meter=kilometer/1000;
+printf("enter the distance in meter:\n",meter);
+return 0;
+}
+

@@ -1,0 +1,11 @@
+WRITE A PSEUDOCODE TO accept a number and display the multiplication table of the number
+
+ Begin
+Numeric number N
+for  (T=1 to 10)
+display M=N*T
+End
+
+
+
+

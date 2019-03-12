@@ -1,0 +1,8 @@
+ write a algorithm that accepts three numbers and display the lowest number among them
+
+ step 1 start
+ step 2 enter 3 numbers n1 n2 n3
+ step 3 find out the lowest number 
+ step 4 print the lowest number.
+ step 5 end the process
+ 

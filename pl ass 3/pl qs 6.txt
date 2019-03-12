@@ -1,0 +1,41 @@
+6. write an algorithm to find the area of rectangle and square separately
+
+#include <stdio.h>
+int main() {
+    int length,breadth, area;
+    printf("enter the first number :\n" );
+    scanf("%d",&length);
+
+    printf("enter the second number:\n");
+    scanf("%d",&breadth);
+    area= length*breadth;
+    printf("area of rectangle is:%d\n", area);
+    int side;
+    printf("enter the number;\n");
+    scanf("%d",&side);
+    area=side*side;
+    printf("area of square:%d\n",area);
+    return 0;
+}
+
+    
+    
+    
+
+    
+
+    
+    
+
+
+    
+    
+    
+
+    
+
+    
+    
+
+    
+	
